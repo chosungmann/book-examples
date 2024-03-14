@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{C8124D27-75C4-9EBF-6E6A-9BC7AB5AD584}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Boss/ObjectGenManager.cs">
+    <Files>
+      <File FileName="Assets/RoomManager/SaveDataManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Player/PlayerController.cs" />
+      <File FileName="Assets/Player/CameraManager.cs" Line="28" Column="17" />
+      <File FileName="Assets/Boss/ObjectGenManager.cs" Line="39" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d7803029-2e20-45af-a47a-e76c28036b1e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

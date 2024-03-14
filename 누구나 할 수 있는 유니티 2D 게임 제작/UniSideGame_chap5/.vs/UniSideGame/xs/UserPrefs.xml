@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{1DCBC5E6-5071-5788-902F-6E70816D3846}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ChangeScene.cs">
+    <Files>
+      <File FileName="Assets/Player/PlayerController.cs" Line="158" Column="23" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="59" Column="36" />
+      <File FileName="Assets/Scripts/ChangeScene.cs" Line="26" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e52737ae-ee25-44df-b9f3-7d9d2186bc4c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

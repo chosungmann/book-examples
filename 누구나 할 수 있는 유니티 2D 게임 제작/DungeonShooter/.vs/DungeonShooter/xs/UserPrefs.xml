@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{28A06D8F-03DC-26C3-A97A-7AE7DB41F8C2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UIManager/UIManager.cs">
+    <Files>
+      <File FileName="Assets/Title/TitleManager.cs" Line="38" Column="37" />
+      <File FileName="Assets/RoomManager/SaveDataManager.cs" Line="36" Column="16" />
+      <File FileName="Assets/UIManager/UIManager.cs" Line="35" Column="6" />
+      <File FileName="Assets/Player/ArrowShoot.cs" Line="32" Column="1" />
+      <File FileName="Assets/RoomManager/RoomManager.cs" />
+      <File FileName="Assets/Enemy/EnemyController.cs" />
+      <File FileName="Assets/Item/Door.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8d312b2e-7880-4d1e-bfdc-382e26adc88e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

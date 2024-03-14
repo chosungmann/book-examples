@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{1DCBC5E6-5071-5788-902F-6E70816D3846}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/VirtualPad.cs">
+    <Files>
+      <File FileName="Assets/Player/PlayerController.cs" Line="201" Column="6" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="178" Column="2" />
+      <File FileName="Assets/Scripts/ChangeScene.cs" />
+      <File FileName="Assets/Scripts/CameraManager.cs" />
+      <File FileName="Assets/Scripts/TimeController.cs" />
+      <File FileName="Assets/Scripts/ItemData.cs" />
+      <File FileName="Assets/Scripts/ResultManager.cs" Line="13" Column="81" />
+      <File FileName="Assets/Scripts/GimmickBlock.cs" Line="48" Column="11" />
+      <File FileName="Assets/Scripts/MovingBlock.cs" Line="84" Column="40" />
+      <File FileName="Assets/Scripts/SwitchAction.cs" Line="44" Column="14" />
+      <File FileName="Assets/Scripts/CannonController.cs" Line="58" Column="9" />
+      <File FileName="Assets/Scripts/ShellController.cs" Line="22" Column="6" />
+      <File FileName="Assets/Enemy/EnemyController.cs" Line="64" Column="13" />
+      <File FileName="Assets/Scripts/VirtualPad.cs" Line="71" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c25de657-31f1-4921-9d20-4c902e14fd3d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

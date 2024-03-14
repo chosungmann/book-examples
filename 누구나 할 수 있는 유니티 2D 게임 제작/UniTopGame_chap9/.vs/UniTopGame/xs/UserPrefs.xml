@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{91D4EAAD-5098-E588-DF7C-CFBEA77A1592}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/RoomManager/RoomManager.cs">
+    <Files>
+      <File FileName="Assets/SoundManager/SoundManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/UIManager/UIManager.cs" Line="109" Column="1" />
+      <File FileName="Assets/RoomManager/RoomManager.cs" Line="9" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7049acb0-067a-4a9f-a127-3b5581f0eb55" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

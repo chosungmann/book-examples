@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{5863B323-2625-7BB2-EF11-EA85D557FE5A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Player/PlayerController.cs">
+    <Files>
+      <File FileName="../../../../../../Shared/Unity/UniSideGame/Assets/Scripts/MovingBlock.cs" Line="84" Column="1" />
+      <File FileName="Assets/Scripts/TimeController.cs" />
+      <File FileName="Assets/Enemy/EnemyController.cs" />
+      <File FileName="Assets/Player/PlayerController.cs" Line="158" Column="1" />
+      <File FileName="Assets/Scripts/GameManager.cs" />
+      <File FileName="Assets/Scripts/ResultManager.cs" />
+      <File FileName="Assets/Scripts/TitleManager.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="203cc6e5-5206-4d15-bf24-620de9f44503" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

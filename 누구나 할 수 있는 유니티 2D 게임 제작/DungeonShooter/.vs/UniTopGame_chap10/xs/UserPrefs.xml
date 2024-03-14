@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{539866E8-AB86-5A42-3DC5-3768F8F0AAB6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/RoomManager/RoomManager.cs">
+    <Files>
+      <File FileName="Assets/UIManager/UIManager.cs" Line="101" Column="11" />
+      <File FileName="Assets/Title/TitleManager.cs" Line="51" Column="1" />
+      <File FileName="Assets/Player/ItemKeeper.cs" Line="1" Column="1" />
+      <File FileName="Assets/Player/PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Item/ItemData.cs" Line="69" Column="1" />
+      <File FileName="Assets/RoomManager/SaveData.cs" Line="1" Column="1" />
+      <File FileName="Assets/RoomManager/SaveDataManager.cs" Line="93" Column="1" />
+      <File FileName="Assets/Item/Door.cs" Line="30" Column="1" />
+      <File FileName="Assets/Item/ItemBox.cs" Line="36" Column="1" />
+      <File FileName="Assets/RoomManager/RoomManager.cs" Line="37" Column="28" />
+      <File FileName="Assets/Boss/BulletController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Boss/BossController.cs" Line="82" Column="12" />
+      <File FileName="Assets/Player/CameraManager.cs" Line="24" Column="31" />
+      <File FileName="Assets/Boss/ObjectGenPoint.cs" Line="25" Column="58" />
+      <File FileName="Assets/Boss/ObjectGenManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/RoomManager/Exit.cs" Line="1" Column="1" />
+      <File FileName="Assets/SoundManager/SoundManager.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UniTopGame_chap10" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="13e5250c-1817-470d-9fe4-0a2f90f05a02" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
