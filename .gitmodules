@@ -1,0 +1,3 @@
+[submodule "Head First C#, 4th Edition"]
+  path = "Head First C#, 4th Edition"
+  url = https://github.com/head-first-csharp/fourth-edition.git
