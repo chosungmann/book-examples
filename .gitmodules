@@ -1,3 +1,6 @@
+[submodule "Code Like a Pro in Rust"]
+  path = Code Like a Pro in Rust
+  url = https://github.com/brndnmtthws/code-like-a-pro-in-rust-book.git
 [submodule "Rust in Action"]
   path = Rust in Action
   url = https://github.com/rust-in-action/code.git
