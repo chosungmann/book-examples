@@ -2,6 +2,7 @@
 
 * [Code Like a Pro in Rust](https://www.manning.com/books/code-like-a-pro-in-rust)
 * [Hands-on Rust <sup>Effective Learning through 2D Game Development and Play</sup>](https://pragprog.com/titles/hwrust/hands-on-rust/)
+* [Practical Rust Projects, 2nd Edition <sup>Build Serverless, AI, Machine Learning, Embedded, Game, and Web Applications</sup>](https://link.springer.com/book/10.1007/978-1-4842-9331-7)
 * [Programming WebRTC](https://pragprog.com/titles/ksrtc/programming-webrtc/)
 * [Real-Time Communication with WebRTC <sup>Peer-to-Peer in the Browser</sup>](https://www.oreilly.com/library/view/real-time-communication-with/9781449371869/)
 * [Rust in Action <sup>Systems Programming Concepts and Techniques</sup>](https://www.manning.com/books/rust-in-action)

@@ -4,6 +4,9 @@
 [submodule "Hands-on Rust"]
   path = Hands-on Rust
   url = https://github.com/thebracket/HandsOnRust.git
+[submodule "Practical Rust Projects, 2nd Edition"]
+  path = Practical Rust Projects, 2nd Edition
+  url = https://github.com/Apress/Practical-Rust-Projects-2nd-ed..git
 [submodule "Real-Time Communication with WebRTC"]
   path = Real-Time Communication with WebRTC
   url = https://github.com/spromano/WebRTC_Book.git
