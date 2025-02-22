@@ -1,5 +1,6 @@
 # Book Examples
 
+* [Bootstrapping Microservices with Docker, Kubernetes, GitHub Actions, and Terraform, 2nd Edition](https://www.manning.com/books/bootstrapping-microservices-second-edition)
 * [Code Like a Pro in Rust](https://www.manning.com/books/code-like-a-pro-in-rust)
 * [Hands-on Rust <sup>Effective Learning through 2D Game Development and Play</sup>](https://pragprog.com/titles/hwrust/hands-on-rust/)
 * [Practical Rust Projects, 2nd Edition <sup>Build Serverless, AI, Machine Learning, Embedded, Game, and Web Applications</sup>](https://link.springer.com/book/10.1007/978-1-4842-9331-7)

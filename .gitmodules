@@ -1,3 +1,39 @@
+[submodule "Bootstrapping Microservices with Docker, Kubernetes, GitHub Actions, and Terraform, 2nd Edition/chapter-2"]
+  path = Bootstrapping Microservices with Docker, Kubernetes, GitHub Actions, and Terraform, 2nd Edition/chapter-2
+  url = https://github.com/bootstrapping-microservices-2nd-edition/chapter-2.git
+[submodule "Bootstrapping Microservices with Docker, Kubernetes, GitHub Actions, and Terraform, 2nd Edition/chapter-3"]
+  path = Bootstrapping Microservices with Docker, Kubernetes, GitHub Actions, and Terraform, 2nd Edition/chapter-3
+  url = https://github.com/bootstrapping-microservices-2nd-edition/chapter-3.git
+[submodule "Bootstrapping Microservices with Docker, Kubernetes, GitHub Actions, and Terraform, 2nd Edition/chapter-4"]
+  path = Bootstrapping Microservices with Docker, Kubernetes, GitHub Actions, and Terraform, 2nd Edition/chapter-4
+  url = https://github.com/bootstrapping-microservices-2nd-edition/chapter-4.git
+[submodule "Bootstrapping Microservices with Docker, Kubernetes, GitHub Actions, and Terraform, 2nd Edition/chapter-5"]
+  path = Bootstrapping Microservices with Docker, Kubernetes, GitHub Actions, and Terraform, 2nd Edition/chapter-5
+  url = https://github.com/bootstrapping-microservices-2nd-edition/chapter-5.git
+[submodule "Bootstrapping Microservices with Docker, Kubernetes, GitHub Actions, and Terraform, 2nd Edition/chapter-6"]
+  path = Bootstrapping Microservices with Docker, Kubernetes, GitHub Actions, and Terraform, 2nd Edition/chapter-6
+  url = https://github.com/bootstrapping-microservices-2nd-edition/chapter-6.git
+[submodule "Bootstrapping Microservices with Docker, Kubernetes, GitHub Actions, and Terraform, 2nd Edition/chapter-7"]
+  path = Bootstrapping Microservices with Docker, Kubernetes, GitHub Actions, and Terraform, 2nd Edition/chapter-7
+  url = https://github.com/bootstrapping-microservices-2nd-edition/chapter-7.git
+[submodule "Bootstrapping Microservices with Docker, Kubernetes, GitHub Actions, and Terraform, 2nd Edition/chapter-8-example-1"]
+  path = Bootstrapping Microservices with Docker, Kubernetes, GitHub Actions, and Terraform, 2nd Edition/chapter-8-example-1
+  url = https://github.com/bootstrapping-microservices-2nd-edition/chapter-8-example-1.git
+[submodule "Bootstrapping Microservices with Docker, Kubernetes, GitHub Actions, and Terraform, 2nd Edition/chapter-8-example-2"]
+  path = Bootstrapping Microservices with Docker, Kubernetes, GitHub Actions, and Terraform, 2nd Edition/chapter-8-example-2
+  url = https://github.com/bootstrapping-microservices-2nd-edition/chapter-8-example-2.git
+[submodule "Bootstrapping Microservices with Docker, Kubernetes, GitHub Actions, and Terraform, 2nd Edition/chapter-8-example-3"]
+  path = Bootstrapping Microservices with Docker, Kubernetes, GitHub Actions, and Terraform, 2nd Edition/chapter-8-example-3
+  url = https://github.com/bootstrapping-microservices-2nd-edition/chapter-8-example-3.git
+[submodule "Bootstrapping Microservices with Docker, Kubernetes, GitHub Actions, and Terraform, 2nd Edition/chapter-9"]
+  path = Bootstrapping Microservices with Docker, Kubernetes, GitHub Actions, and Terraform, 2nd Edition/chapter-9
+  url = https://github.com/bootstrapping-microservices-2nd-edition/chapter-9.git
+[submodule "Bootstrapping Microservices with Docker, Kubernetes, GitHub Actions, and Terraform, 2nd Edition/chapter-10"]
+  path = Bootstrapping Microservices with Docker, Kubernetes, GitHub Actions, and Terraform, 2nd Edition/chapter-10
+  url = https://github.com/bootstrapping-microservices-2nd-edition/chapter-10.git
+[submodule "Bootstrapping Microservices with Docker, Kubernetes, GitHub Actions, and Terraform, 2nd Edition/nodejs-basic-example"]
+  path = Bootstrapping Microservices with Docker, Kubernetes, GitHub Actions, and Terraform, 2nd Edition/nodejs-basic-example
+  url = https://github.com/bootstrapping-microservices-2nd-edition/nodejs-basic-example.git
 [submodule "Code Like a Pro in Rust"]
   path = Code Like a Pro in Rust
   url = https://github.com/brndnmtthws/code-like-a-pro-in-rust-book.git
