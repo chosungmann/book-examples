@@ -43,6 +43,9 @@
 [submodule "Practical Rust Projects, 2nd Edition"]
   path = Practical Rust Projects, 2nd Edition
   url = https://github.com/Apress/Practical-Rust-Projects-2nd-ed..git
+[submodule "Professional C++, 6th Edition"]
+  path = Professional C++, 6th Edition
+  url = https://github.com/Professional-CPP/edition-6.git
 [submodule "Real-Time Communication with WebRTC"]
   path = Real-Time Communication with WebRTC
   url = https://github.com/spromano/WebRTC_Book.git
