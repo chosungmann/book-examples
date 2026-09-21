@@ -40,6 +40,9 @@
 [submodule "Hands-on Rust"]
   path = Hands-on Rust
   url = https://github.com/thebracket/HandsOnRust.git
+[submodule "Node.js + NestJS 교과서"]
+  path = Node.js + NestJS 교과서
+  url = https://github.com/ZeroCho/nestjs-book.git
 [submodule "Practical Rust Projects, 2nd Edition"]
   path = Practical Rust Projects, 2nd Edition
   url = https://github.com/Apress/Practical-Rust-Projects-2nd-ed..git
