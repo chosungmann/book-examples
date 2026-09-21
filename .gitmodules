@@ -61,6 +61,9 @@
 [submodule "코드팩토리의 플러터 프로그래밍, 2판"]
   path = 코드팩토리의 플러터 프로그래밍, 2판
   url = https://github.com/codefactory-co/flutter-golden-rabbit-novice-v2
+[submodule "코딩 자율학습 리액트 프런트엔드 개발 입문"]
+  path = 코딩 자율학습 리액트 프런트엔드 개발 입문
+  url = https://github.com/gilbutITbook/080440.git
 [submodule "클론 코딩 줌"]
   path = 클론 코딩 줌
   url = https://github.com/penguingoon89/noom.git
