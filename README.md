@@ -15,3 +15,4 @@
 * [코드팩토리의 플러터 프로그래밍, 2판 <sup>다트 & 플러터 입문부터 실전 앱 개발 10가지와 인증/광고/배포까지</sup>](https://goldenrabbit.co.kr/product/must-have-codefactory-flutter/)
 * [코딩 자율학습 리액트 프런트엔드 개발 입문 <sup>리액트 19와 타입스크립트로 배우는 실무 중심 프런트엔드 개발 자습서</sup>](https://www.gilbut.co.kr/book/view?bookcode=BN004572)
 * [클론 코딩 줌 <sup>노마드 코더와 만드는 화상 채팅 서비스</sup>](https://www.easyspub.co.kr/20_Menu/BookView/509)
+* [혼자 공부하는 바이브 코딩 With 클로드 코드 <sup>I와 1:1 대화하며 배우는 첫 코딩 자습서</sup>](https://www.hanbit.co.kr/books/혼자-공부하는-바이브-코딩-with-클로드-코드?code=B1785590517)

@@ -67,3 +67,6 @@
 [submodule "클론 코딩 줌"]
   path = 클론 코딩 줌
   url = https://github.com/penguingoon89/noom.git
+[submodule "혼자 공부하는 바이브 코딩 With 클로드 코드"]
+  path = 혼자 공부하는 바이브 코딩 With 클로드 코드
+  url = https://github.com/taehojo/vibecoding.git
