@@ -4,6 +4,7 @@
 * [Code Like a Pro in Rust](https://www.manning.com/books/code-like-a-pro-in-rust)
 * [Deep Learning With JavaScript <sup>Neural Networks In TensorFlow.js</sup>](https://www.manning.com/books/deep-learning-with-javascript)
 * [Hands-on Rust <sup>Effective Learning through 2D Game Development and Play</sup>](https://pragprog.com/titles/hwrust/hands-on-rust/)
+* [Learning TensorFlow.js <sup>Powerful Machine Learning In JavaScript</sup>](https://learning.oreilly.com/library/view/learning-tensorflow-js/9781492090786/)
 * [Node.js + NestJS 교과서, 개정 4판 <sup>안정적인 AI 서비스를 만들기 위한 Node.js + NestJS 입문서</sup>](https://www.gilbut.co.kr/book/view?bookcode=BN004833)
 * [Practical Rust Projects, 2nd Edition <sup>Build Serverless, AI, Machine Learning, Embedded, Game, and Web Applications</sup>](https://link.springer.com/book/10.1007/978-1-4842-9331-7)
 * [Professional C++, 6th Edition](https://www.wiley.com/go/proc++6e)
