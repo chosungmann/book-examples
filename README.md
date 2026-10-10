@@ -2,6 +2,7 @@
 
 * [Bootstrapping Microservices with Docker, Kubernetes, GitHub Actions, and Terraform, 2nd Edition](https://www.manning.com/books/bootstrapping-microservices-second-edition)
 * [Code Like a Pro in Rust](https://www.manning.com/books/code-like-a-pro-in-rust)
+* [Deep Learning In The Browser](https://www.amazon.com/Deep-Learning-Browser-Xavier-Bourry-ebook/dp/B07GNZPP2P)
 * [Deep Learning With JavaScript <sup>Neural Networks In TensorFlow.js</sup>](https://www.manning.com/books/deep-learning-with-javascript)
 * [Hands-on Rust <sup>Effective Learning through 2D Game Development and Play</sup>](https://pragprog.com/titles/hwrust/hands-on-rust/)
 * [Learning TensorFlow.js <sup>Powerful Machine Learning In JavaScript</sup>](https://learning.oreilly.com/library/view/learning-tensorflow-js/9781492090786/)

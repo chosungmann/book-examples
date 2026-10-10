@@ -37,6 +37,9 @@
 [submodule "Code Like a Pro in Rust"]
   path = Code Like a Pro in Rust
   url = https://github.com/brndnmtthws/code-like-a-pro-in-rust-book.git
+[submodule "Deep Learning In The Browser"]
+  path = Deep Learning In The Browser
+  url = https://github.com/backstopmedia/deep-learning-browser.git
 [submodule "Hands-on Rust"]
   path = Hands-on Rust
   url = https://github.com/thebracket/HandsOnRust.git
